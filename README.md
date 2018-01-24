@@ -18,3 +18,7 @@
 ###### npm install 후 npm start 하면 됨
 
 ###### yarn.lock파일은 위에 써있는 필수 모듈 몇개 안깔릴 수 있음 npm 으로 깐거라
+
+#### 추신
+
+##### 이 repository는 오직 뷰만 제공함. 서버는 따로 코딩해야함. 서버 띄울때 node express 서버나 meteor 서버를 포트 listen 정도까지만 하고 뷰쪽에서 쳐다보게만 설정하면됨
